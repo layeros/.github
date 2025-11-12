@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-    <h1 align="center">Xend</h1>
+    <h1 align="center">Layer OS</h1>
 </p>
   <p align="center">
       <em>10X Your Browser Productivity - The browser tools you need. The design you deserve. All in one place. Free to start.</em>
